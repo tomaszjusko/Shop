@@ -17,7 +17,7 @@ public class RpgGame extends Game {
     @Override
     public String toCSV() {
         return new StringBuilder()
-                .append(super.toString())
+                .append(super.toCSV())
                 .append(";")
                 .append(this.numberOfPages)
                 .toString();

@@ -1,11 +1,11 @@
 RpgGame;Kult;130.2;1;18;120
 RpgGame;Neuroshima;100.0;12;18;350
-Boardgame;RpgGame;D&D;99.99;7;12;300
+RpgGame;D&D;99.99;7;12;300
 Boardgame;Carcassonne;100.0;20;8;6
 Boardgame;Kiki-Riki;75.5;1;3;4
 Boardgame;Taboo;99.5;2;10;10
 Boardgame;Smallworld;199.99;10;12;5
-Kingdom Builder;80.0;5;11;4
+Boardgame;Kingdom Builder;80.0;5;11;4
 User;admin;admin;true
 User;user;user;false
 User;januszek;halyna1;false
